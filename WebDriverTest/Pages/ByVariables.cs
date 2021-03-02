@@ -14,5 +14,6 @@ namespace WebDriverTest.Pages
         private By PartialLinkText = By.PartialLinkText("Каталог");
         private By Name = By.Name("search");
         private By TagName = By.TagName("h1");
+        private By TagNameTwo = By.TagName("h1");
     }
 }
